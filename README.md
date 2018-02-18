@@ -35,4 +35,9 @@ Sub Schleife()
         DoEvents
     Loop
 End Sub
+
+
+Sub Nachricht()
+    MsgBox "Moin"
+End Sub
 ````
